@@ -1,3 +1,3 @@
 output "dummy_op" {
-  value = "xyz"
+  value = "abc"
 }
